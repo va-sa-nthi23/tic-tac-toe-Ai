@@ -1,0 +1,1 @@
+This project implements a Tic-Tac-Toe game with an intelligent AI opponent. The game allows players to compete against an AI that makes optimal moves using the Minimax algorithm with optional enhancements such as alpha-beta pruning for improved performance. It can also be played in two-player mode. 
